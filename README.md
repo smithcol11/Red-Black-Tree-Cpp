@@ -3,7 +3,8 @@ This is an advanced tree that I coded in C++ for my Data Structures class. It is
 This program uses my personally created string class which can be found in my repositories. These can be replaced by strings or cstrings. 
 Some sources and inspiration for this project are: 
 > https://www.youtube.com/watch?v=JwgeECkckRo
-https://www.coders-hub.com/2015/07/red-black-tree-rb-tree-using-c.html
+
+> https://www.coders-hub.com/2015/07/red-black-tree-rb-tree-using-c.html
 
 ## Code Snippets
 > tree.h
